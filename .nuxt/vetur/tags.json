@@ -1,0 +1,56 @@
+{
+  "DelayHydration": {
+    "description": "Auto imported from node_modules/nuxt-delay-hydration/dist/components/DelayHydration.js"
+  },
+  "HydrationStatus": {
+    "description": "Auto imported from node_modules/nuxt-delay-hydration/dist/components/HydrationStatus.js"
+  },
+  "AddToCart": {
+    "description": "Auto imported from components/AddToCart.vue"
+  },
+  "Carousel": {
+    "description": "Auto imported from components/Carousel.vue"
+  },
+  "HomeProducts": {
+    "description": "Auto imported from components/HomeProducts.vue"
+  },
+  "Products": {
+    "description": "Auto imported from components/Products.vue"
+  },
+  "Rating": {
+    "description": "Auto imported from components/Rating.vue"
+  },
+  "WhatsappOrder": {
+    "description": "Auto imported from components/WhatsappOrder.vue"
+  },
+  "HomeAddCart": {
+    "description": "Auto imported from components/Home/AddCart.vue"
+  },
+  "HomeWpOrder": {
+    "description": "Auto imported from components/Home/WpOrder.vue"
+  },
+  "BlogArticleList": {
+    "description": "Auto imported from components/blog/article-list.vue"
+  },
+  "BlogCarousel": {
+    "description": "Auto imported from components/blog/blog-carousel.vue"
+  },
+  "PartialsCategoryFilter": {
+    "description": "Auto imported from components/partials/CategoryFilter.vue"
+  },
+  "PartialsFooter": {
+    "description": "Auto imported from components/partials/Footer.vue"
+  },
+  "PartialsMenu": {
+    "description": "Auto imported from components/partials/Menu.vue"
+  },
+  "PartialsSidebar": {
+    "description": "Auto imported from components/partials/Sidebar.vue"
+  },
+  "SharedCall": {
+    "description": "Auto imported from components/shared/call.vue"
+  },
+  "SharedWhatsapp": {
+    "description": "Auto imported from components/shared/whatsapp.vue"
+  }
+}

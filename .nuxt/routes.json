@@ -1,0 +1,219 @@
+[
+  {
+    "name": "404",
+    "path": "/404",
+    "component": "/var/www/avimar/pages/404.vue",
+    "chunkName": "pages/404",
+    "_name": "_7ea9d019"
+  },
+  {
+    "name": "about-us",
+    "path": "/about-us",
+    "component": "/var/www/avimar/pages/about-us.vue",
+    "chunkName": "pages/about-us",
+    "_name": "_acb81466"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/var/www/avimar/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_34678fd4"
+  },
+  {
+    "name": "brands",
+    "path": "/brands",
+    "component": "/var/www/avimar/pages/brands/index.vue",
+    "chunkName": "pages/brands/index",
+    "_name": "_1219cfbe"
+  },
+  {
+    "name": "carson",
+    "path": "/carson",
+    "component": "/var/www/avimar/pages/carson/index.vue",
+    "chunkName": "pages/carson/index",
+    "_name": "_108dc0b0"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/var/www/avimar/pages/cart/index.vue",
+    "chunkName": "pages/cart/index",
+    "_name": "_7d5615d2"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "/var/www/avimar/pages/checkout.vue",
+    "chunkName": "pages/checkout",
+    "_name": "_3b340235"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "/var/www/avimar/pages/contact-us.vue",
+    "chunkName": "pages/contact-us",
+    "_name": "_59627fcc"
+  },
+  {
+    "name": "corporate-purchase",
+    "path": "/corporate-purchase",
+    "component": "/var/www/avimar/pages/corporate-purchase/index.vue",
+    "chunkName": "pages/corporate-purchase/index",
+    "_name": "_ee6abeca"
+  },
+  {
+    "name": "countries",
+    "path": "/countries",
+    "component": "/var/www/avimar/pages/countries/index.vue",
+    "chunkName": "pages/countries/index",
+    "_name": "_fe4788d0"
+  },
+  {
+    "name": "faqs",
+    "path": "/faqs",
+    "component": "/var/www/avimar/pages/faqs/index.vue",
+    "chunkName": "pages/faqs/index",
+    "_name": "_f34dcae2"
+  },
+  {
+    "name": "favorite",
+    "path": "/favorite",
+    "component": "/var/www/avimar/pages/favorite.vue",
+    "chunkName": "pages/favorite",
+    "_name": "_0358638b"
+  },
+  {
+    "name": "how-it-works",
+    "path": "/how-it-works",
+    "component": "/var/www/avimar/pages/how-it-works/index.vue",
+    "chunkName": "pages/how-it-works/index",
+    "_name": "_0e060caf"
+  },
+  {
+    "name": "most-expensive-alcohol",
+    "path": "/most-expensive-alcohol",
+    "component": "/var/www/avimar/pages/most-expensive-alcohol/index.vue",
+    "chunkName": "pages/most-expensive-alcohol/index",
+    "_name": "_0451fff4"
+  },
+  {
+    "name": "offers",
+    "path": "/offers",
+    "component": "/var/www/avimar/pages/offers.vue",
+    "chunkName": "pages/offers",
+    "_name": "_2716bfc6"
+  },
+  {
+    "name": "order",
+    "path": "/order",
+    "component": "/var/www/avimar/pages/order.vue",
+    "chunkName": "pages/order",
+    "_name": "_9012b622"
+  },
+  {
+    "name": "our-terms",
+    "path": "/our-terms",
+    "component": "/var/www/avimar/pages/our-terms/index.vue",
+    "chunkName": "pages/our-terms/index",
+    "_name": "_9fbb53ac"
+  },
+  {
+    "name": "pricelist",
+    "path": "/pricelist",
+    "component": "/var/www/avimar/pages/pricelist/index.vue",
+    "chunkName": "pages/pricelist/index",
+    "_name": "_388bb28b"
+  },
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "/var/www/avimar/pages/product/index.vue",
+    "chunkName": "pages/product/index",
+    "_name": "_a321835a"
+  },
+  {
+    "name": "account-dashboard",
+    "path": "/account/dashboard",
+    "component": "/var/www/avimar/pages/account/dashboard/index.vue",
+    "chunkName": "pages/account/dashboard/index",
+    "_name": "_91bb30d4"
+  },
+  {
+    "name": "account-login",
+    "path": "/account/login",
+    "component": "/var/www/avimar/pages/account/login/index.vue",
+    "chunkName": "pages/account/login/index",
+    "_name": "_791ab1ab"
+  },
+  {
+    "name": "account-profile",
+    "path": "/account/profile",
+    "component": "/var/www/avimar/pages/account/profile/index.vue",
+    "chunkName": "pages/account/profile/index",
+    "_name": "_310e7e2b"
+  },
+  {
+    "name": "account-ratings",
+    "path": "/account/ratings",
+    "component": "/var/www/avimar/pages/account/ratings/index.vue",
+    "chunkName": "pages/account/ratings/index",
+    "_name": "_35a4ca90"
+  },
+  {
+    "name": "account-register",
+    "path": "/account/register",
+    "component": "/var/www/avimar/pages/account/register/index.vue",
+    "chunkName": "pages/account/register/index",
+    "_name": "_2056ae37"
+  },
+  {
+    "name": "blog-url",
+    "path": "/blog/:url",
+    "component": "/var/www/avimar/pages/blog/_url.vue",
+    "chunkName": "pages/blog/_url",
+    "_name": "_8131e6c4"
+  },
+  {
+    "name": "brands-brand",
+    "path": "/brands/:brand",
+    "component": "/var/www/avimar/pages/brands/_brand/index.vue",
+    "chunkName": "pages/brands/_brand/index",
+    "_name": "_41e677cf"
+  },
+  {
+    "name": "countries-country",
+    "path": "/countries/:country",
+    "component": "/var/www/avimar/pages/countries/_country/index.vue",
+    "chunkName": "pages/countries/_country/index",
+    "_name": "_88db0178"
+  },
+  {
+    "name": "search-term",
+    "path": "/search/:term",
+    "component": "/var/www/avimar/pages/search/_term/index.vue",
+    "chunkName": "pages/search/_term/index",
+    "_name": "_51a72e54"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/var/www/avimar/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_c1a8371a"
+  },
+  {
+    "name": "category",
+    "path": "/:category",
+    "component": "/var/www/avimar/pages/_category/index.vue",
+    "chunkName": "pages/_category/index",
+    "_name": "_e0da5ffe"
+  },
+  {
+    "name": "category-subcategory",
+    "path": "/:category/:subcategory",
+    "component": "/var/www/avimar/pages/_category/_subcategory/index.vue",
+    "chunkName": "pages/_category/_subcategory/index",
+    "_name": "_0fee4da3"
+  }
+]

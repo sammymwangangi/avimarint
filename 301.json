@@ -1,0 +1,14 @@
+[
+  { "from": "/whisky-delivery-nairobi", "to": "/whisky" },
+  { "from": "/wine-delivery-nairobi", "to": "/wine" },
+  { "from": "/vodka-delivery-nairobi", "to": "/vodka" },
+  { "from": "/cognac-delivery-nairobi", "to": "/cognac" },
+  { "from": "/brandy-delivery-nairobi", "to": "/brandy" },
+  { "from": "/champagne-delivery-nairobi", "to": "/champagne" },
+  { "from": "/beer-delivery-nairobi", "to": "/beer" },
+  { "from": "/liqueur-delivery-nairobi", "to": "/liqueur" },
+  { "from": "/tequila-delivery-nairobi", "to": "/tequila" },
+  { "from": "/gin-delivery-nairobi", "to": "/gin" },
+  { "from": "/rum-delivery-nairobi", "to": "/rum" },
+  { "from": "/wines-and-spirit-pricelist-kenya", "to": "/pricelist" }
+]
